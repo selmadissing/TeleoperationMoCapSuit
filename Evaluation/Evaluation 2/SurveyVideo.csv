@@ -1,0 +1,11 @@
+ResponseId,Demographics - Q1,Demographics - Q2,Demographics - Q3,Task 1 - Q1,Task 1 - Q2,Task 1 - Q3,Task 2 - Q1,Task 2 - Q2,Task 2 - Q3,Task 3 - Q1,Task 3 - Q2,Task 3 - Q3,Task 4 - Q1,Task 4 - Q2,Task 4 - Q3,Task 5 - Q1,Task 5 - Q2,Task 5 - Q3,Free-mode - Q1,Free-mode - Q2,Overall - Q1,Overall - Q2,Overall - Q3,Open-ended question 
+R_3ELld57YPJXZNgH,2,23,1,2,5,5,2,5,5,2,1,1,2,5,5,2,5,5,5,no,5,5,5,
+R_3NIXRhZ8FstTrGC,1,24,3,2,5,5,2,4,4,2,5,5,1,2,3,2,4,4,4,It was not possible to rotate the arms inwards. For the control of hands you need to be quite close to the camera. Time is needed to get used to the latency in the robot's movements,3,4,2,I like having a feedback of what is being observed as well as the simulated bot (that helps controlling for me) I dislike the latency between my movements and the bot's ones. The head rotation works very well. Inwards rotation may be a good future work.
+R_2CrAE9h9pzjK7GC,2,20,1,2,5,5,2,5,5,2,5,5,2,3,3,1,2,2,5,,4,4,4,"I think for some movements it worked really well. Except for the movements I had to do with my elbows, because that didn't work."
+R_6eSCowO8ahiL3Pj,2,22,1,1,4,2,1,2,1,1,2,1,2,4,4,1,1,1,2,It seemed to have an issue every time I would bend my elbows ,2,2,1,if the movement was done too fast the robot seemed to loose control 
+R_yxO8ZJazsXXr369,1,21,3,2,1,1,2,4,2,2,4,2,2,4,4,2,4,2,5,the robot was really slow,4,4,1,it was really slow could generally follow my movements except for my elbows sometimes. if i leaned my head backwards it went forwards.
+R_3h6DFZP69xOaFvK,2,21,1,2,3,4,2,4,4,2,3,3,2,4,4,1,1,1,3,"The robot opened its hands, but the movements was delayed and incomplete. It did not manage to extend its arms fully, however maximum velocity was also reached and therefore the movement was stopped. ",3,2,2,"The robot did manage to repeat some movements, however the biggest problem was that maximum velocity was reached when doing the tasks. Therefore the robot couldn't complete some tasks.. However the tasks that were completed were done correctly but with a little delay in movement. "
+R_1OltcYMigiNOTH0,1,24,2,2,5,3,2,4,4,1,3,4,1,2,2,1,3,3,4,,5,4,4,
+R_1OHzr6xNuoHF4wk,2,22,2,2,5,5,2,4,3,2,4,2,1,2,4,1,3,2,5,,4,3,4,
+R_2E0GZZX8gdEAML7,1,20,1,2,3,3,2,4,4,1,4,4,1,3,2,2,4,4,4,,5,4,4,
+R_2uHXCausRcb4BqA,2,23,1,2,4,4,2,4,4,2,5,4,1,2,3,1,2,2,3,,3,4,3,
