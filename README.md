@@ -19,6 +19,6 @@ Run the following command in the environment with Python2.7 as the interpreter (
 $ python robot_client.py --ip=192.168.0.164 
 <br>
 <br>
-Then run both separately
-- main.py in python 3.7 (or higher) for acquiring motion-capture data from Axis Neuron 
-- robot_joint_control.py in the "RobotJointControl" folder in python 3.7 (or higher) for the NAO robot
+Then run both separately in Python3.7 (or higher)
+- main.py  for acquiring motion-capture data from Axis Neuron 
+- robot_joint_control.py in the "RobotJointControl" folder for the NAO robot
