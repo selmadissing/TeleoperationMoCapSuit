@@ -11,6 +11,10 @@ This repository contains the code utilized in my thesis research, investigating 
 Programming language: Python3 (recommended version is 3.7 or above) and Python2.7
 <br>
 <br>
-Run both separately
-- main.py for acquiring motion-capture data from Axis Neuron
-- robot_joint_control.py in the "RobotJointControl" folder for the NAO robot
+Run the following command in the environment with Python2.7 as the interpreter (NAOqi only support Python2.7). Change the IP address to the NAO's IP address.
+<br>
+$ python robot_client.py --ip=192.168.0.164 
+<br>
+Then run both separately
+- main.py in python 3.7 (or higher) for acquiring motion-capture data from Axis Neuron 
+- robot_joint_control.py in the "RobotJointControl" folder in python 3.7 (or higher) for the NAO robot
