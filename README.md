@@ -20,5 +20,5 @@ $ python robot_client.py --ip=192.168.0.164
 <br>
 <br>
 Then run both separately in Python3.7 (or higher)
-- main.py  for acquiring motion-capture data from Axis Neuron 
+- main.py  for acquiring motion-capture data from Axis Neuron (change the IP address and host for Axis Neuron)
 - robot_joint_control.py in the "RobotJointControl" folder for the NAO robot
