@@ -11,7 +11,7 @@ This repository contains the code utilized in my thesis research, investigating 
 Programming language: Python3 (recommended version is 3.7 or above) and Python2.7
 <br>
 <br>
-Download the repo robot_client from https://github.com/SIRCourse/Robot_Cient/tree/main/robot_client
+Download the repo robot_client from 'https://github.com/SIRCourse/Robot_Cient/tree/main/robot_client'
 <br>
 Run the following command in the environment with Python2.7 as the interpreter (NAOqi only support Python2.7). Change the IP address to the NAO's IP address.
 <br>
